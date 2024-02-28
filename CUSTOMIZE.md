@@ -144,4 +144,4 @@ A variety of beautiful theme colors have been selected for you to choose from. T
 
 ## Adding social media information
 
-You can add your social media links by adding the specified information at the `Social integration` section in the [\_config.yml](_config.yml) file. This information will appear at the bottom of the `About` page.
+You can add your social media links by adding the specified information at the `Social integration` section in the [\_config.yml](_config.yml) file. This information will appear at the bottom of the `About` page. 
